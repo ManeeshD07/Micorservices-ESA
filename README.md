@@ -6,8 +6,8 @@ An e-commerce microservice api which has the following features:
 3.  Put products in a users cart
 
 ### Pre-requisites
-> System packages: nodejs, npm
-> npm packages: express, request, body-parser
+1. System packages: nodejs, npm
+2. npm packages: express, request, body-parser
 
 ## Installation :
 
