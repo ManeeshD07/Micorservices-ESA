@@ -1,0 +1,36 @@
+{
+  "productlist": [
+    {
+      "productId": "12445dsd234",
+      "category": "Mobile",
+      "productName": "Samsung",
+      "productModel": "GalaxyNote",
+      "price": 700,
+      "availableQuantity": 10
+    },
+    {
+      "productId": "123245ds4235",
+      "category": "TV",
+      "productName": "LG",
+      "productModel": "CX55PTA",
+      "price": 2000,
+      "availableQuantity": 6
+    },
+    {
+      "productId": "123545ds436",
+      "category": "Mobile",
+      "productName": "Apple",
+      "productModel": "IPhoneX",
+      "price": 1200,
+      "availableQuantity": 20
+    },
+    {
+        "productId": "123545ds436",
+        "category": "Mobile",
+        "productName": "Google",
+        "productModel": "Pixel",
+        "price": 1200,
+        "availableQuantity": 20
+      }
+  ]
+}
